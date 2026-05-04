@@ -32,7 +32,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Exécution
 
 ```bash
-python TP7_breast_cancer.py
+python breast_cancer.py
 ```
 
 ---
